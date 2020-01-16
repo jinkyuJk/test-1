@@ -23,4 +23,4 @@ https://translate.google.co.kr/?hl=ko&tab=TT&authuser=0
 
 [구글번역](https://translate.google.co.kr/?hl=ko&tab=TT&authuser=0,"연습중")
 
-![korea univ](./다운로드.png)
+![korea univ](./logo.png)
